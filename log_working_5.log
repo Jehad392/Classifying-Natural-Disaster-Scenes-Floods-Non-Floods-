@@ -1,0 +1,2001 @@
+Finished Training
+[1,  20] loss: 0.681
+[1,  40] loss: 0.655
+[1,  60] loss: 0.546
+Accuracy of the network on the 400 test images: 77 %
+[2,  20] loss: 0.519
+[2,  40] loss: 0.467
+[2,  60] loss: 0.554
+Accuracy of the network on the 400 test images: 77 %
+[3,  20] loss: 0.440
+[3,  40] loss: 0.499
+[3,  60] loss: 0.433
+Accuracy of the network on the 400 test images: 79 %
+[4,  20] loss: 0.374
+[4,  40] loss: 0.384
+[4,  60] loss: 0.417
+Accuracy of the network on the 400 test images: 74 %
+[5,  20] loss: 0.356
+[5,  40] loss: 0.316
+[5,  60] loss: 0.322
+Accuracy of the network on the 400 test images: 69 %
+[6,  20] loss: 0.379
+[6,  40] loss: 0.408
+[6,  60] loss: 0.318
+Accuracy of the network on the 400 test images: 76 %
+[7,  20] loss: 0.332
+[7,  40] loss: 0.256
+[7,  60] loss: 0.328
+Accuracy of the network on the 400 test images: 74 %
+[8,  20] loss: 0.177
+[8,  40] loss: 0.225
+[8,  60] loss: 0.309
+Accuracy of the network on the 400 test images: 69 %
+[9,  20] loss: 0.167
+[9,  40] loss: 0.249
+[9,  60] loss: 0.241
+Accuracy of the network on the 400 test images: 72 %
+[10,  20] loss: 0.172
+[10,  40] loss: 0.218
+[10,  60] loss: 0.217
+Accuracy of the network on the 400 test images: 72 %
+[11,  20] loss: 0.134
+[11,  40] loss: 0.078
+[11,  60] loss: 0.110
+Accuracy of the network on the 400 test images: 78 %
+[12,  20] loss: 0.102
+[12,  40] loss: 0.069
+[12,  60] loss: 0.092
+Accuracy of the network on the 400 test images: 79 %
+[13,  20] loss: 0.047
+[13,  40] loss: 0.071
+[13,  60] loss: 0.075
+Accuracy of the network on the 400 test images: 76 %
+[14,  20] loss: 0.064
+[14,  40] loss: 0.083
+[14,  60] loss: 0.070
+Accuracy of the network on the 400 test images: 78 %
+[15,  20] loss: 0.048
+[15,  40] loss: 0.075
+[15,  60] loss: 0.070
+Accuracy of the network on the 400 test images: 75 %
+[16,  20] loss: 0.064
+[16,  40] loss: 0.116
+[16,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 78 %
+[17,  20] loss: 0.070
+[17,  40] loss: 0.048
+[17,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 79 %
+[18,  20] loss: 0.044
+[18,  40] loss: 0.048
+[18,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 76 %
+[19,  20] loss: 0.059
+[19,  40] loss: 0.055
+[19,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 77 %
+[20,  20] loss: 0.034
+[20,  40] loss: 0.039
+[20,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 78 %
+[21,  20] loss: 0.042
+[21,  40] loss: 0.067
+[21,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 78 %
+[22,  20] loss: 0.061
+[22,  40] loss: 0.037
+[22,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 80 %
+[23,  20] loss: 0.080
+[23,  40] loss: 0.084
+[23,  60] loss: 0.079
+Accuracy of the network on the 400 test images: 78 %
+[24,  20] loss: 0.060
+[24,  40] loss: 0.056
+[24,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 74 %
+[25,  20] loss: 0.054
+[25,  40] loss: 0.053
+[25,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 77 %
+[26,  20] loss: 0.035
+[26,  40] loss: 0.053
+[26,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 80 %
+[27,  20] loss: 0.061
+[27,  40] loss: 0.055
+[27,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 80 %
+[28,  20] loss: 0.058
+[28,  40] loss: 0.066
+[28,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 77 %
+[29,  20] loss: 0.056
+[29,  40] loss: 0.063
+[29,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 77 %
+[30,  20] loss: 0.063
+[30,  40] loss: 0.058
+[30,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 78 %
+[31,  20] loss: 0.040
+[31,  40] loss: 0.037
+[31,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 78 %
+[32,  20] loss: 0.055
+[32,  40] loss: 0.052
+[32,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 76 %
+[33,  20] loss: 0.048
+[33,  40] loss: 0.060
+[33,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 75 %
+[34,  20] loss: 0.037
+[34,  40] loss: 0.058
+[34,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 75 %
+[35,  20] loss: 0.045
+[35,  40] loss: 0.063
+[35,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 78 %
+[36,  20] loss: 0.033
+[36,  40] loss: 0.052
+[36,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 77 %
+[37,  20] loss: 0.067
+[37,  40] loss: 0.043
+[37,  60] loss: 0.074
+Accuracy of the network on the 400 test images: 80 %
+[38,  20] loss: 0.058
+[38,  40] loss: 0.028
+[38,  60] loss: 0.071
+Accuracy of the network on the 400 test images: 79 %
+[39,  20] loss: 0.034
+[39,  40] loss: 0.050
+[39,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 78 %
+[40,  20] loss: 0.069
+[40,  40] loss: 0.050
+[40,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 77 %
+[41,  20] loss: 0.042
+[41,  40] loss: 0.111
+[41,  60] loss: 0.026
+Accuracy of the network on the 400 test images: 77 %
+[42,  20] loss: 0.071
+[42,  40] loss: 0.063
+[42,  60] loss: 0.056
+Accuracy of the network on the 400 test images: 76 %
+[43,  20] loss: 0.051
+[43,  40] loss: 0.038
+[43,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 76 %
+[44,  20] loss: 0.033
+[44,  40] loss: 0.049
+[44,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 79 %
+[45,  20] loss: 0.060
+[45,  40] loss: 0.033
+[45,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 79 %
+[46,  20] loss: 0.024
+[46,  40] loss: 0.056
+[46,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 77 %
+[47,  20] loss: 0.051
+[47,  40] loss: 0.068
+[47,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 78 %
+[48,  20] loss: 0.060
+[48,  40] loss: 0.059
+[48,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 77 %
+[49,  20] loss: 0.071
+[49,  40] loss: 0.050
+[49,  60] loss: 0.026
+Accuracy of the network on the 400 test images: 78 %
+[50,  20] loss: 0.060
+[50,  40] loss: 0.035
+[50,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 78 %
+[51,  20] loss: 0.035
+[51,  40] loss: 0.048
+[51,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 76 %
+[52,  20] loss: 0.049
+[52,  40] loss: 0.055
+[52,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 78 %
+[53,  20] loss: 0.048
+[53,  40] loss: 0.025
+[53,  60] loss: 0.065
+Accuracy of the network on the 400 test images: 78 %
+[54,  20] loss: 0.031
+[54,  40] loss: 0.036
+[54,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 80 %
+[55,  20] loss: 0.026
+[55,  40] loss: 0.030
+[55,  60] loss: 0.057
+Accuracy of the network on the 400 test images: 81 %
+[56,  20] loss: 0.041
+[56,  40] loss: 0.070
+[56,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 79 %
+[57,  20] loss: 0.059
+[57,  40] loss: 0.045
+[57,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 79 %
+[58,  20] loss: 0.056
+[58,  40] loss: 0.038
+[58,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[59,  20] loss: 0.034
+[59,  40] loss: 0.043
+[59,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 80 %
+[60,  20] loss: 0.030
+[60,  40] loss: 0.042
+[60,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 77 %
+[61,  20] loss: 0.035
+[61,  40] loss: 0.033
+[61,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[62,  20] loss: 0.041
+[62,  40] loss: 0.036
+[62,  60] loss: 0.083
+Accuracy of the network on the 400 test images: 81 %
+[63,  20] loss: 0.042
+[63,  40] loss: 0.029
+[63,  60] loss: 0.119
+Accuracy of the network on the 400 test images: 76 %
+[64,  20] loss: 0.057
+[64,  40] loss: 0.040
+[64,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 76 %
+[65,  20] loss: 0.068
+[65,  40] loss: 0.052
+[65,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 76 %
+[66,  20] loss: 0.041
+[66,  40] loss: 0.042
+[66,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 80 %
+[67,  20] loss: 0.034
+[67,  40] loss: 0.032
+[67,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 76 %
+[68,  20] loss: 0.030
+[68,  40] loss: 0.051
+[68,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 80 %
+[69,  20] loss: 0.040
+[69,  40] loss: 0.048
+[69,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 78 %
+[70,  20] loss: 0.048
+[70,  40] loss: 0.053
+[70,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 80 %
+[71,  20] loss: 0.029
+[71,  40] loss: 0.040
+[71,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 80 %
+[72,  20] loss: 0.056
+[72,  40] loss: 0.038
+[72,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 80 %
+[73,  20] loss: 0.052
+[73,  40] loss: 0.054
+[73,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 77 %
+[74,  20] loss: 0.047
+[74,  40] loss: 0.039
+[74,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 78 %
+[75,  20] loss: 0.070
+[75,  40] loss: 0.044
+[75,  60] loss: 0.076
+Accuracy of the network on the 400 test images: 74 %
+[76,  20] loss: 0.044
+[76,  40] loss: 0.042
+[76,  60] loss: 0.084
+Accuracy of the network on the 400 test images: 76 %
+[77,  20] loss: 0.099
+[77,  40] loss: 0.032
+[77,  60] loss: 0.059
+Accuracy of the network on the 400 test images: 78 %
+[78,  20] loss: 0.056
+[78,  40] loss: 0.059
+[78,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 77 %
+[79,  20] loss: 0.070
+[79,  40] loss: 0.047
+[79,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 75 %
+[80,  20] loss: 0.045
+[80,  40] loss: 0.051
+[80,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 80 %
+[81,  20] loss: 0.024
+[81,  40] loss: 0.037
+[81,  60] loss: 0.059
+Accuracy of the network on the 400 test images: 76 %
+[82,  20] loss: 0.063
+[82,  40] loss: 0.058
+[82,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 76 %
+[83,  20] loss: 0.052
+[83,  40] loss: 0.067
+[83,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 80 %
+[84,  20] loss: 0.032
+[84,  40] loss: 0.044
+[84,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 78 %
+[85,  20] loss: 0.041
+[85,  40] loss: 0.033
+[85,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 78 %
+[86,  20] loss: 0.033
+[86,  40] loss: 0.046
+[86,  60] loss: 0.036
+Accuracy of the network on the 400 test images: 80 %
+[87,  20] loss: 0.053
+[87,  40] loss: 0.076
+[87,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 77 %
+[88,  20] loss: 0.038
+[88,  40] loss: 0.045
+[88,  60] loss: 0.036
+Accuracy of the network on the 400 test images: 76 %
+[89,  20] loss: 0.042
+[89,  40] loss: 0.043
+[89,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 78 %
+[90,  20] loss: 0.054
+[90,  40] loss: 0.068
+[90,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 78 %
+[91,  20] loss: 0.053
+[91,  40] loss: 0.035
+[91,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 77 %
+[92,  20] loss: 0.068
+[92,  40] loss: 0.055
+[92,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 78 %
+[93,  20] loss: 0.034
+[93,  40] loss: 0.045
+[93,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 76 %
+[94,  20] loss: 0.042
+[94,  40] loss: 0.033
+[94,  60] loss: 0.024
+Accuracy of the network on the 400 test images: 80 %
+[95,  20] loss: 0.113
+[95,  40] loss: 0.061
+[95,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 77 %
+[96,  20] loss: 0.025
+[96,  40] loss: 0.026
+[96,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 78 %
+[97,  20] loss: 0.055
+[97,  40] loss: 0.098
+[97,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 80 %
+[98,  20] loss: 0.043
+[98,  40] loss: 0.041
+[98,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 77 %
+[99,  20] loss: 0.040
+[99,  40] loss: 0.052
+[99,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 76 %
+[100,  20] loss: 0.029
+[100,  40] loss: 0.077
+[100,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 76 %
+[101,  20] loss: 0.075
+[101,  40] loss: 0.077
+[101,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[102,  20] loss: 0.039
+[102,  40] loss: 0.064
+[102,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 76 %
+[103,  20] loss: 0.020
+[103,  40] loss: 0.051
+[103,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 78 %
+[104,  20] loss: 0.045
+[104,  40] loss: 0.035
+[104,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 80 %
+[105,  20] loss: 0.034
+[105,  40] loss: 0.052
+[105,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 77 %
+[106,  20] loss: 0.050
+[106,  40] loss: 0.067
+[106,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 80 %
+[107,  20] loss: 0.064
+[107,  40] loss: 0.039
+[107,  60] loss: 0.063
+Accuracy of the network on the 400 test images: 75 %
+[108,  20] loss: 0.041
+[108,  40] loss: 0.044
+[108,  60] loss: 0.059
+Accuracy of the network on the 400 test images: 80 %
+[109,  20] loss: 0.042
+[109,  40] loss: 0.039
+[109,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[110,  20] loss: 0.074
+[110,  40] loss: 0.032
+[110,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 82 %
+[111,  20] loss: 0.026
+[111,  40] loss: 0.035
+[111,  60] loss: 0.026
+Accuracy of the network on the 400 test images: 80 %
+[112,  20] loss: 0.037
+[112,  40] loss: 0.061
+[112,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 79 %
+[113,  20] loss: 0.064
+[113,  40] loss: 0.058
+[113,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 76 %
+[114,  20] loss: 0.059
+[114,  40] loss: 0.068
+[114,  60] loss: 0.025
+Accuracy of the network on the 400 test images: 81 %
+[115,  20] loss: 0.028
+[115,  40] loss: 0.062
+[115,  60] loss: 0.063
+Accuracy of the network on the 400 test images: 75 %
+[116,  20] loss: 0.044
+[116,  40] loss: 0.044
+[116,  60] loss: 0.083
+Accuracy of the network on the 400 test images: 77 %
+[117,  20] loss: 0.038
+[117,  40] loss: 0.052
+[117,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 78 %
+[118,  20] loss: 0.042
+[118,  40] loss: 0.028
+[118,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 77 %
+[119,  20] loss: 0.031
+[119,  40] loss: 0.046
+[119,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 78 %
+[120,  20] loss: 0.041
+[120,  40] loss: 0.065
+[120,  60] loss: 0.083
+Accuracy of the network on the 400 test images: 77 %
+[121,  20] loss: 0.031
+[121,  40] loss: 0.028
+[121,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 78 %
+[122,  20] loss: 0.051
+[122,  40] loss: 0.047
+[122,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 80 %
+[123,  20] loss: 0.037
+[123,  40] loss: 0.033
+[123,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 79 %
+[124,  20] loss: 0.058
+[124,  40] loss: 0.052
+[124,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 81 %
+[125,  20] loss: 0.059
+[125,  40] loss: 0.039
+[125,  60] loss: 0.027
+Accuracy of the network on the 400 test images: 77 %
+[126,  20] loss: 0.041
+[126,  40] loss: 0.043
+[126,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 77 %
+[127,  20] loss: 0.029
+[127,  40] loss: 0.053
+[127,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 80 %
+[128,  20] loss: 0.045
+[128,  40] loss: 0.042
+[128,  60] loss: 0.057
+Accuracy of the network on the 400 test images: 79 %
+[129,  20] loss: 0.047
+[129,  40] loss: 0.068
+[129,  60] loss: 0.067
+Accuracy of the network on the 400 test images: 80 %
+[130,  20] loss: 0.035
+[130,  40] loss: 0.071
+[130,  60] loss: 0.077
+Accuracy of the network on the 400 test images: 79 %
+[131,  20] loss: 0.042
+[131,  40] loss: 0.044
+[131,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 80 %
+[132,  20] loss: 0.027
+[132,  40] loss: 0.060
+[132,  60] loss: 0.069
+Accuracy of the network on the 400 test images: 78 %
+[133,  20] loss: 0.036
+[133,  40] loss: 0.040
+[133,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 78 %
+[134,  20] loss: 0.047
+[134,  40] loss: 0.052
+[134,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 75 %
+[135,  20] loss: 0.035
+[135,  40] loss: 0.058
+[135,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 80 %
+[136,  20] loss: 0.075
+[136,  40] loss: 0.051
+[136,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 77 %
+[137,  20] loss: 0.050
+[137,  40] loss: 0.041
+[137,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 77 %
+[138,  20] loss: 0.045
+[138,  40] loss: 0.041
+[138,  60] loss: 0.074
+Accuracy of the network on the 400 test images: 76 %
+[139,  20] loss: 0.039
+[139,  40] loss: 0.054
+[139,  60] loss: 0.064
+Accuracy of the network on the 400 test images: 80 %
+[140,  20] loss: 0.053
+[140,  40] loss: 0.053
+[140,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 78 %
+[141,  20] loss: 0.054
+[141,  40] loss: 0.051
+[141,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 79 %
+[142,  20] loss: 0.045
+[142,  40] loss: 0.047
+[142,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 76 %
+[143,  20] loss: 0.042
+[143,  40] loss: 0.028
+[143,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 74 %
+[144,  20] loss: 0.047
+[144,  40] loss: 0.035
+[144,  60] loss: 0.070
+Accuracy of the network on the 400 test images: 76 %
+[145,  20] loss: 0.040
+[145,  40] loss: 0.065
+[145,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 79 %
+[146,  20] loss: 0.037
+[146,  40] loss: 0.032
+[146,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 77 %
+[147,  20] loss: 0.050
+[147,  40] loss: 0.049
+[147,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 77 %
+[148,  20] loss: 0.062
+[148,  40] loss: 0.071
+[148,  60] loss: 0.080
+Accuracy of the network on the 400 test images: 76 %
+[149,  20] loss: 0.040
+[149,  40] loss: 0.039
+[149,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 78 %
+[150,  20] loss: 0.032
+[150,  40] loss: 0.039
+[150,  60] loss: 0.036
+Accuracy of the network on the 400 test images: 78 %
+[151,  20] loss: 0.051
+[151,  40] loss: 0.028
+[151,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 77 %
+[152,  20] loss: 0.053
+[152,  40] loss: 0.032
+[152,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 75 %
+[153,  20] loss: 0.038
+[153,  40] loss: 0.041
+[153,  60] loss: 0.064
+Accuracy of the network on the 400 test images: 76 %
+[154,  20] loss: 0.039
+[154,  40] loss: 0.038
+[154,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[155,  20] loss: 0.053
+[155,  40] loss: 0.061
+[155,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 77 %
+[156,  20] loss: 0.046
+[156,  40] loss: 0.044
+[156,  60] loss: 0.052
+Accuracy of the network on the 400 test images: 77 %
+[157,  20] loss: 0.030
+[157,  40] loss: 0.059
+[157,  60] loss: 0.052
+Accuracy of the network on the 400 test images: 77 %
+[158,  20] loss: 0.037
+[158,  40] loss: 0.048
+[158,  60] loss: 0.056
+Accuracy of the network on the 400 test images: 78 %
+[159,  20] loss: 0.043
+[159,  40] loss: 0.038
+[159,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 80 %
+[160,  20] loss: 0.048
+[160,  40] loss: 0.030
+[160,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 77 %
+[161,  20] loss: 0.065
+[161,  40] loss: 0.048
+[161,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 78 %
+[162,  20] loss: 0.045
+[162,  40] loss: 0.041
+[162,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 78 %
+[163,  20] loss: 0.054
+[163,  40] loss: 0.063
+[163,  60] loss: 0.076
+Accuracy of the network on the 400 test images: 76 %
+[164,  20] loss: 0.049
+[164,  40] loss: 0.042
+[164,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 77 %
+[165,  20] loss: 0.057
+[165,  40] loss: 0.046
+[165,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 76 %
+[166,  20] loss: 0.041
+[166,  40] loss: 0.043
+[166,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 76 %
+[167,  20] loss: 0.034
+[167,  40] loss: 0.029
+[167,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 78 %
+[168,  20] loss: 0.025
+[168,  40] loss: 0.032
+[168,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 78 %
+[169,  20] loss: 0.039
+[169,  40] loss: 0.056
+[169,  60] loss: 0.070
+Accuracy of the network on the 400 test images: 80 %
+[170,  20] loss: 0.061
+[170,  40] loss: 0.035
+[170,  60] loss: 0.068
+Accuracy of the network on the 400 test images: 80 %
+[171,  20] loss: 0.035
+[171,  40] loss: 0.059
+[171,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[172,  20] loss: 0.027
+[172,  40] loss: 0.024
+[172,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 80 %
+[173,  20] loss: 0.055
+[173,  40] loss: 0.039
+[173,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 77 %
+[174,  20] loss: 0.062
+[174,  40] loss: 0.039
+[174,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 74 %
+[175,  20] loss: 0.035
+[175,  40] loss: 0.074
+[175,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 77 %
+[176,  20] loss: 0.050
+[176,  40] loss: 0.061
+[176,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 78 %
+[177,  20] loss: 0.041
+[177,  40] loss: 0.046
+[177,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 78 %
+[178,  20] loss: 0.075
+[178,  40] loss: 0.043
+[178,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 77 %
+[179,  20] loss: 0.051
+[179,  40] loss: 0.036
+[179,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 77 %
+[180,  20] loss: 0.048
+[180,  40] loss: 0.037
+[180,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 76 %
+[181,  20] loss: 0.082
+[181,  40] loss: 0.047
+[181,  60] loss: 0.062
+Accuracy of the network on the 400 test images: 76 %
+[182,  20] loss: 0.062
+[182,  40] loss: 0.048
+[182,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 75 %
+[183,  20] loss: 0.046
+[183,  40] loss: 0.079
+[183,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 80 %
+[184,  20] loss: 0.057
+[184,  40] loss: 0.046
+[184,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 79 %
+[185,  20] loss: 0.050
+[185,  40] loss: 0.046
+[185,  60] loss: 0.068
+Accuracy of the network on the 400 test images: 80 %
+[186,  20] loss: 0.073
+[186,  40] loss: 0.040
+[186,  60] loss: 0.027
+Accuracy of the network on the 400 test images: 80 %
+[187,  20] loss: 0.044
+[187,  40] loss: 0.046
+[187,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 78 %
+[188,  20] loss: 0.047
+[188,  40] loss: 0.052
+[188,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 80 %
+[189,  20] loss: 0.040
+[189,  40] loss: 0.047
+[189,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 76 %
+[190,  20] loss: 0.057
+[190,  40] loss: 0.042
+[190,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 79 %
+[191,  20] loss: 0.032
+[191,  40] loss: 0.043
+[191,  60] loss: 0.082
+Accuracy of the network on the 400 test images: 80 %
+[192,  20] loss: 0.047
+[192,  40] loss: 0.063
+[192,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 78 %
+[193,  20] loss: 0.045
+[193,  40] loss: 0.048
+[193,  60] loss: 0.077
+Accuracy of the network on the 400 test images: 78 %
+[194,  20] loss: 0.058
+[194,  40] loss: 0.032
+[194,  60] loss: 0.093
+Accuracy of the network on the 400 test images: 78 %
+[195,  20] loss: 0.058
+[195,  40] loss: 0.026
+[195,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 78 %
+[196,  20] loss: 0.036
+[196,  40] loss: 0.031
+[196,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 74 %
+[197,  20] loss: 0.037
+[197,  40] loss: 0.031
+[197,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 79 %
+[198,  20] loss: 0.085
+[198,  40] loss: 0.042
+[198,  60] loss: 0.056
+Accuracy of the network on the 400 test images: 77 %
+[199,  20] loss: 0.057
+[199,  40] loss: 0.046
+[199,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 78 %
+[200,  20] loss: 0.049
+[200,  40] loss: 0.066
+[200,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 78 %
+[201,  20] loss: 0.046
+[201,  40] loss: 0.048
+[201,  60] loss: 0.064
+Accuracy of the network on the 400 test images: 77 %
+[202,  20] loss: 0.046
+[202,  40] loss: 0.045
+[202,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 77 %
+[203,  20] loss: 0.026
+[203,  40] loss: 0.064
+[203,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 76 %
+[204,  20] loss: 0.062
+[204,  40] loss: 0.043
+[204,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 78 %
+[205,  20] loss: 0.030
+[205,  40] loss: 0.050
+[205,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 76 %
+[206,  20] loss: 0.035
+[206,  40] loss: 0.020
+[206,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 78 %
+[207,  20] loss: 0.045
+[207,  40] loss: 0.030
+[207,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 75 %
+[208,  20] loss: 0.033
+[208,  40] loss: 0.052
+[208,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 80 %
+[209,  20] loss: 0.034
+[209,  40] loss: 0.080
+[209,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 79 %
+[210,  20] loss: 0.040
+[210,  40] loss: 0.054
+[210,  60] loss: 0.081
+Accuracy of the network on the 400 test images: 78 %
+[211,  20] loss: 0.040
+[211,  40] loss: 0.035
+[211,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 79 %
+[212,  20] loss: 0.039
+[212,  40] loss: 0.039
+[212,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 77 %
+[213,  20] loss: 0.052
+[213,  40] loss: 0.054
+[213,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 76 %
+[214,  20] loss: 0.047
+[214,  40] loss: 0.035
+[214,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 77 %
+[215,  20] loss: 0.046
+[215,  40] loss: 0.041
+[215,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 78 %
+[216,  20] loss: 0.039
+[216,  40] loss: 0.040
+[216,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 78 %
+[217,  20] loss: 0.036
+[217,  40] loss: 0.062
+[217,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 74 %
+[218,  20] loss: 0.057
+[218,  40] loss: 0.048
+[218,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 76 %
+[219,  20] loss: 0.030
+[219,  40] loss: 0.044
+[219,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 78 %
+[220,  20] loss: 0.045
+[220,  40] loss: 0.087
+[220,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 76 %
+[221,  20] loss: 0.047
+[221,  40] loss: 0.052
+[221,  60] loss: 0.057
+Accuracy of the network on the 400 test images: 76 %
+[222,  20] loss: 0.037
+[222,  40] loss: 0.052
+[222,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 80 %
+[223,  20] loss: 0.048
+[223,  40] loss: 0.048
+[223,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[224,  20] loss: 0.053
+[224,  40] loss: 0.074
+[224,  60] loss: 0.025
+Accuracy of the network on the 400 test images: 76 %
+[225,  20] loss: 0.067
+[225,  40] loss: 0.044
+[225,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 78 %
+[226,  20] loss: 0.039
+[226,  40] loss: 0.049
+[226,  60] loss: 0.063
+Accuracy of the network on the 400 test images: 79 %
+[227,  20] loss: 0.062
+[227,  40] loss: 0.046
+[227,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 77 %
+[228,  20] loss: 0.044
+[228,  40] loss: 0.044
+[228,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 78 %
+[229,  20] loss: 0.074
+[229,  40] loss: 0.063
+[229,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 79 %
+[230,  20] loss: 0.061
+[230,  40] loss: 0.057
+[230,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 80 %
+[231,  20] loss: 0.040
+[231,  40] loss: 0.028
+[231,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 79 %
+[232,  20] loss: 0.076
+[232,  40] loss: 0.045
+[232,  60] loss: 0.052
+Accuracy of the network on the 400 test images: 76 %
+[233,  20] loss: 0.031
+[233,  40] loss: 0.050
+[233,  60] loss: 0.027
+Accuracy of the network on the 400 test images: 75 %
+[234,  20] loss: 0.045
+[234,  40] loss: 0.036
+[234,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 78 %
+[235,  20] loss: 0.032
+[235,  40] loss: 0.039
+[235,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 80 %
+[236,  20] loss: 0.043
+[236,  40] loss: 0.036
+[236,  60] loss: 0.123
+Accuracy of the network on the 400 test images: 80 %
+[237,  20] loss: 0.055
+[237,  40] loss: 0.040
+[237,  60] loss: 0.018
+Accuracy of the network on the 400 test images: 76 %
+[238,  20] loss: 0.037
+[238,  40] loss: 0.028
+[238,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 81 %
+[239,  20] loss: 0.066
+[239,  40] loss: 0.052
+[239,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 76 %
+[240,  20] loss: 0.035
+[240,  40] loss: 0.060
+[240,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 78 %
+[241,  20] loss: 0.055
+[241,  40] loss: 0.040
+[241,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 75 %
+[242,  20] loss: 0.052
+[242,  40] loss: 0.037
+[242,  60] loss: 0.025
+Accuracy of the network on the 400 test images: 79 %
+[243,  20] loss: 0.037
+[243,  40] loss: 0.050
+[243,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 74 %
+[244,  20] loss: 0.089
+[244,  40] loss: 0.053
+[244,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 77 %
+[245,  20] loss: 0.025
+[245,  40] loss: 0.078
+[245,  60] loss: 0.079
+Accuracy of the network on the 400 test images: 76 %
+[246,  20] loss: 0.026
+[246,  40] loss: 0.049
+[246,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[247,  20] loss: 0.050
+[247,  40] loss: 0.056
+[247,  60] loss: 0.075
+Accuracy of the network on the 400 test images: 81 %
+[248,  20] loss: 0.058
+[248,  40] loss: 0.041
+[248,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 77 %
+[249,  20] loss: 0.046
+[249,  40] loss: 0.021
+[249,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 77 %
+[250,  20] loss: 0.080
+[250,  40] loss: 0.046
+[250,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 77 %
+[251,  20] loss: 0.062
+[251,  40] loss: 0.043
+[251,  60] loss: 0.071
+Accuracy of the network on the 400 test images: 76 %
+[252,  20] loss: 0.048
+[252,  40] loss: 0.037
+[252,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 77 %
+[253,  20] loss: 0.046
+[253,  40] loss: 0.048
+[253,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 78 %
+[254,  20] loss: 0.045
+[254,  40] loss: 0.030
+[254,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 78 %
+[255,  20] loss: 0.043
+[255,  40] loss: 0.048
+[255,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 78 %
+[256,  20] loss: 0.061
+[256,  40] loss: 0.035
+[256,  60] loss: 0.064
+Accuracy of the network on the 400 test images: 78 %
+[257,  20] loss: 0.063
+[257,  40] loss: 0.036
+[257,  60] loss: 0.057
+Accuracy of the network on the 400 test images: 77 %
+[258,  20] loss: 0.036
+[258,  40] loss: 0.036
+[258,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 77 %
+[259,  20] loss: 0.039
+[259,  40] loss: 0.050
+[259,  60] loss: 0.036
+Accuracy of the network on the 400 test images: 76 %
+[260,  20] loss: 0.060
+[260,  40] loss: 0.054
+[260,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 80 %
+[261,  20] loss: 0.048
+[261,  40] loss: 0.055
+[261,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 79 %
+[262,  20] loss: 0.062
+[262,  40] loss: 0.029
+[262,  60] loss: 0.025
+Accuracy of the network on the 400 test images: 77 %
+[263,  20] loss: 0.057
+[263,  40] loss: 0.074
+[263,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 80 %
+[264,  20] loss: 0.030
+[264,  40] loss: 0.032
+[264,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 75 %
+[265,  20] loss: 0.049
+[265,  40] loss: 0.068
+[265,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 77 %
+[266,  20] loss: 0.041
+[266,  40] loss: 0.038
+[266,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 78 %
+[267,  20] loss: 0.035
+[267,  40] loss: 0.037
+[267,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 78 %
+[268,  20] loss: 0.037
+[268,  40] loss: 0.042
+[268,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 78 %
+[269,  20] loss: 0.031
+[269,  40] loss: 0.038
+[269,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 78 %
+[270,  20] loss: 0.058
+[270,  40] loss: 0.056
+[270,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 80 %
+[271,  20] loss: 0.055
+[271,  40] loss: 0.033
+[271,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 79 %
+[272,  20] loss: 0.035
+[272,  40] loss: 0.039
+[272,  60] loss: 0.064
+Accuracy of the network on the 400 test images: 78 %
+[273,  20] loss: 0.054
+[273,  40] loss: 0.047
+[273,  60] loss: 0.057
+Accuracy of the network on the 400 test images: 78 %
+[274,  20] loss: 0.050
+[274,  40] loss: 0.078
+[274,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 76 %
+[275,  20] loss: 0.022
+[275,  40] loss: 0.031
+[275,  60] loss: 0.067
+Accuracy of the network on the 400 test images: 79 %
+[276,  20] loss: 0.050
+[276,  40] loss: 0.081
+[276,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 79 %
+[277,  20] loss: 0.035
+[277,  40] loss: 0.069
+[277,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 78 %
+[278,  20] loss: 0.034
+[278,  40] loss: 0.075
+[278,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 78 %
+[279,  20] loss: 0.038
+[279,  40] loss: 0.073
+[279,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 80 %
+[280,  20] loss: 0.045
+[280,  40] loss: 0.037
+[280,  60] loss: 0.113
+Accuracy of the network on the 400 test images: 78 %
+[281,  20] loss: 0.041
+[281,  40] loss: 0.068
+[281,  60] loss: 0.074
+Accuracy of the network on the 400 test images: 78 %
+[282,  20] loss: 0.042
+[282,  40] loss: 0.020
+[282,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 75 %
+[283,  20] loss: 0.063
+[283,  40] loss: 0.071
+[283,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 76 %
+[284,  20] loss: 0.047
+[284,  40] loss: 0.054
+[284,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 79 %
+[285,  20] loss: 0.048
+[285,  40] loss: 0.034
+[285,  60] loss: 0.056
+Accuracy of the network on the 400 test images: 77 %
+[286,  20] loss: 0.033
+[286,  40] loss: 0.036
+[286,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 78 %
+[287,  20] loss: 0.029
+[287,  40] loss: 0.063
+[287,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 79 %
+[288,  20] loss: 0.043
+[288,  40] loss: 0.040
+[288,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 77 %
+[289,  20] loss: 0.051
+[289,  40] loss: 0.043
+[289,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 76 %
+[290,  20] loss: 0.025
+[290,  40] loss: 0.042
+[290,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 79 %
+[291,  20] loss: 0.041
+[291,  40] loss: 0.031
+[291,  60] loss: 0.024
+Accuracy of the network on the 400 test images: 80 %
+[292,  20] loss: 0.065
+[292,  40] loss: 0.055
+[292,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 80 %
+[293,  20] loss: 0.045
+[293,  40] loss: 0.033
+[293,  60] loss: 0.068
+Accuracy of the network on the 400 test images: 77 %
+[294,  20] loss: 0.025
+[294,  40] loss: 0.059
+[294,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 77 %
+[295,  20] loss: 0.070
+[295,  40] loss: 0.042
+[295,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 79 %
+[296,  20] loss: 0.075
+[296,  40] loss: 0.032
+[296,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 78 %
+[297,  20] loss: 0.057
+[297,  40] loss: 0.045
+[297,  60] loss: 0.075
+Accuracy of the network on the 400 test images: 78 %
+[298,  20] loss: 0.056
+[298,  40] loss: 0.060
+[298,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 80 %
+[299,  20] loss: 0.040
+[299,  40] loss: 0.056
+[299,  60] loss: 0.070
+Accuracy of the network on the 400 test images: 80 %
+[300,  20] loss: 0.058
+[300,  40] loss: 0.039
+[300,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 78 %
+[301,  20] loss: 0.070
+[301,  40] loss: 0.049
+[301,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 78 %
+[302,  20] loss: 0.039
+[302,  40] loss: 0.028
+[302,  60] loss: 0.059
+Accuracy of the network on the 400 test images: 75 %
+[303,  20] loss: 0.058
+[303,  40] loss: 0.050
+[303,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 75 %
+[304,  20] loss: 0.057
+[304,  40] loss: 0.040
+[304,  60] loss: 0.067
+Accuracy of the network on the 400 test images: 78 %
+[305,  20] loss: 0.062
+[305,  40] loss: 0.032
+[305,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[306,  20] loss: 0.050
+[306,  40] loss: 0.065
+[306,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 76 %
+[307,  20] loss: 0.038
+[307,  40] loss: 0.042
+[307,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 78 %
+[308,  20] loss: 0.023
+[308,  40] loss: 0.049
+[308,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 79 %
+[309,  20] loss: 0.029
+[309,  40] loss: 0.060
+[309,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 76 %
+[310,  20] loss: 0.064
+[310,  40] loss: 0.079
+[310,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 78 %
+[311,  20] loss: 0.053
+[311,  40] loss: 0.040
+[311,  60] loss: 0.059
+Accuracy of the network on the 400 test images: 76 %
+[312,  20] loss: 0.083
+[312,  40] loss: 0.041
+[312,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 80 %
+[313,  20] loss: 0.052
+[313,  40] loss: 0.068
+[313,  60] loss: 0.065
+Accuracy of the network on the 400 test images: 76 %
+[314,  20] loss: 0.041
+[314,  40] loss: 0.034
+[314,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 78 %
+[315,  20] loss: 0.047
+[315,  40] loss: 0.067
+[315,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 79 %
+[316,  20] loss: 0.058
+[316,  40] loss: 0.029
+[316,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 78 %
+[317,  20] loss: 0.060
+[317,  40] loss: 0.062
+[317,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 80 %
+[318,  20] loss: 0.034
+[318,  40] loss: 0.057
+[318,  60] loss: 0.065
+Accuracy of the network on the 400 test images: 80 %
+[319,  20] loss: 0.038
+[319,  40] loss: 0.040
+[319,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 76 %
+[320,  20] loss: 0.034
+[320,  40] loss: 0.070
+[320,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 81 %
+[321,  20] loss: 0.043
+[321,  40] loss: 0.048
+[321,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 76 %
+[322,  20] loss: 0.038
+[322,  40] loss: 0.073
+[322,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 79 %
+[323,  20] loss: 0.040
+[323,  40] loss: 0.035
+[323,  60] loss: 0.065
+Accuracy of the network on the 400 test images: 78 %
+[324,  20] loss: 0.044
+[324,  40] loss: 0.044
+[324,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 78 %
+[325,  20] loss: 0.057
+[325,  40] loss: 0.030
+[325,  60] loss: 0.057
+Accuracy of the network on the 400 test images: 80 %
+[326,  20] loss: 0.035
+[326,  40] loss: 0.048
+[326,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 78 %
+[327,  20] loss: 0.042
+[327,  40] loss: 0.024
+[327,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 78 %
+[328,  20] loss: 0.053
+[328,  40] loss: 0.024
+[328,  60] loss: 0.052
+Accuracy of the network on the 400 test images: 78 %
+[329,  20] loss: 0.053
+[329,  40] loss: 0.050
+[329,  60] loss: 0.027
+Accuracy of the network on the 400 test images: 76 %
+[330,  20] loss: 0.036
+[330,  40] loss: 0.071
+[330,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 79 %
+[331,  20] loss: 0.060
+[331,  40] loss: 0.068
+[331,  60] loss: 0.072
+Accuracy of the network on the 400 test images: 79 %
+[332,  20] loss: 0.043
+[332,  40] loss: 0.032
+[332,  60] loss: 0.071
+Accuracy of the network on the 400 test images: 78 %
+[333,  20] loss: 0.090
+[333,  40] loss: 0.032
+[333,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 75 %
+[334,  20] loss: 0.042
+[334,  40] loss: 0.052
+[334,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[335,  20] loss: 0.043
+[335,  40] loss: 0.057
+[335,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 79 %
+[336,  20] loss: 0.073
+[336,  40] loss: 0.033
+[336,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 80 %
+[337,  20] loss: 0.073
+[337,  40] loss: 0.037
+[337,  60] loss: 0.089
+Accuracy of the network on the 400 test images: 78 %
+[338,  20] loss: 0.040
+[338,  40] loss: 0.022
+[338,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 75 %
+[339,  20] loss: 0.046
+[339,  40] loss: 0.047
+[339,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 78 %
+[340,  20] loss: 0.051
+[340,  40] loss: 0.047
+[340,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 78 %
+[341,  20] loss: 0.074
+[341,  40] loss: 0.049
+[341,  60] loss: 0.054
+Accuracy of the network on the 400 test images: 78 %
+[342,  20] loss: 0.056
+[342,  40] loss: 0.035
+[342,  60] loss: 0.092
+Accuracy of the network on the 400 test images: 79 %
+[343,  20] loss: 0.049
+[343,  40] loss: 0.030
+[343,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 76 %
+[344,  20] loss: 0.045
+[344,  40] loss: 0.037
+[344,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 79 %
+[345,  20] loss: 0.046
+[345,  40] loss: 0.032
+[345,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 78 %
+[346,  20] loss: 0.053
+[346,  40] loss: 0.059
+[346,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 78 %
+[347,  20] loss: 0.052
+[347,  40] loss: 0.037
+[347,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 80 %
+[348,  20] loss: 0.060
+[348,  40] loss: 0.041
+[348,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 76 %
+[349,  20] loss: 0.092
+[349,  40] loss: 0.044
+[349,  60] loss: 0.075
+Accuracy of the network on the 400 test images: 77 %
+[350,  20] loss: 0.048
+[350,  40] loss: 0.044
+[350,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 77 %
+[351,  20] loss: 0.041
+[351,  40] loss: 0.040
+[351,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 76 %
+[352,  20] loss: 0.054
+[352,  40] loss: 0.060
+[352,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 80 %
+[353,  20] loss: 0.050
+[353,  40] loss: 0.052
+[353,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 80 %
+[354,  20] loss: 0.047
+[354,  40] loss: 0.046
+[354,  60] loss: 0.026
+Accuracy of the network on the 400 test images: 78 %
+[355,  20] loss: 0.040
+[355,  40] loss: 0.067
+[355,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 78 %
+[356,  20] loss: 0.046
+[356,  40] loss: 0.023
+[356,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 78 %
+[357,  20] loss: 0.035
+[357,  40] loss: 0.064
+[357,  60] loss: 0.076
+Accuracy of the network on the 400 test images: 78 %
+[358,  20] loss: 0.049
+[358,  40] loss: 0.039
+[358,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 77 %
+[359,  20] loss: 0.059
+[359,  40] loss: 0.050
+[359,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 77 %
+[360,  20] loss: 0.046
+[360,  40] loss: 0.082
+[360,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 76 %
+[361,  20] loss: 0.055
+[361,  40] loss: 0.032
+[361,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 80 %
+[362,  20] loss: 0.110
+[362,  40] loss: 0.026
+[362,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 77 %
+[363,  20] loss: 0.034
+[363,  40] loss: 0.047
+[363,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 78 %
+[364,  20] loss: 0.043
+[364,  40] loss: 0.039
+[364,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[365,  20] loss: 0.039
+[365,  40] loss: 0.035
+[365,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 78 %
+[366,  20] loss: 0.043
+[366,  40] loss: 0.031
+[366,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[367,  20] loss: 0.038
+[367,  40] loss: 0.054
+[367,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[368,  20] loss: 0.056
+[368,  40] loss: 0.044
+[368,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 75 %
+[369,  20] loss: 0.046
+[369,  40] loss: 0.038
+[369,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 80 %
+[370,  20] loss: 0.041
+[370,  40] loss: 0.040
+[370,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 78 %
+[371,  20] loss: 0.051
+[371,  40] loss: 0.036
+[371,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 75 %
+[372,  20] loss: 0.048
+[372,  40] loss: 0.042
+[372,  60] loss: 0.065
+Accuracy of the network on the 400 test images: 79 %
+[373,  20] loss: 0.041
+[373,  40] loss: 0.047
+[373,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 80 %
+[374,  20] loss: 0.029
+[374,  40] loss: 0.080
+[374,  60] loss: 0.085
+Accuracy of the network on the 400 test images: 76 %
+[375,  20] loss: 0.023
+[375,  40] loss: 0.036
+[375,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[376,  20] loss: 0.044
+[376,  40] loss: 0.053
+[376,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 76 %
+[377,  20] loss: 0.027
+[377,  40] loss: 0.049
+[377,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 76 %
+[378,  20] loss: 0.035
+[378,  40] loss: 0.049
+[378,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 77 %
+[379,  20] loss: 0.047
+[379,  40] loss: 0.069
+[379,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[380,  20] loss: 0.046
+[380,  40] loss: 0.044
+[380,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[381,  20] loss: 0.031
+[381,  40] loss: 0.065
+[381,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 80 %
+[382,  20] loss: 0.056
+[382,  40] loss: 0.063
+[382,  60] loss: 0.075
+Accuracy of the network on the 400 test images: 76 %
+[383,  20] loss: 0.062
+[383,  40] loss: 0.045
+[383,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 78 %
+[384,  20] loss: 0.034
+[384,  40] loss: 0.057
+[384,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 80 %
+[385,  20] loss: 0.029
+[385,  40] loss: 0.058
+[385,  60] loss: 0.073
+Accuracy of the network on the 400 test images: 77 %
+[386,  20] loss: 0.065
+[386,  40] loss: 0.033
+[386,  60] loss: 0.028
+Accuracy of the network on the 400 test images: 75 %
+[387,  20] loss: 0.051
+[387,  40] loss: 0.041
+[387,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 77 %
+[388,  20] loss: 0.077
+[388,  40] loss: 0.045
+[388,  60] loss: 0.069
+Accuracy of the network on the 400 test images: 79 %
+[389,  20] loss: 0.051
+[389,  40] loss: 0.101
+[389,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 80 %
+[390,  20] loss: 0.058
+[390,  40] loss: 0.031
+[390,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 78 %
+[391,  20] loss: 0.059
+[391,  40] loss: 0.035
+[391,  60] loss: 0.025
+Accuracy of the network on the 400 test images: 79 %
+[392,  20] loss: 0.036
+[392,  40] loss: 0.041
+[392,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 76 %
+[393,  20] loss: 0.021
+[393,  40] loss: 0.065
+[393,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 81 %
+[394,  20] loss: 0.110
+[394,  40] loss: 0.067
+[394,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[395,  20] loss: 0.054
+[395,  40] loss: 0.039
+[395,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 77 %
+[396,  20] loss: 0.045
+[396,  40] loss: 0.040
+[396,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 78 %
+[397,  20] loss: 0.071
+[397,  40] loss: 0.044
+[397,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 76 %
+[398,  20] loss: 0.022
+[398,  40] loss: 0.056
+[398,  60] loss: 0.069
+Accuracy of the network on the 400 test images: 78 %
+[399,  20] loss: 0.046
+[399,  40] loss: 0.055
+[399,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 78 %
+[400,  20] loss: 0.046
+[400,  40] loss: 0.040
+[400,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 76 %
+[401,  20] loss: 0.039
+[401,  40] loss: 0.053
+[401,  60] loss: 0.085
+Accuracy of the network on the 400 test images: 78 %
+[402,  20] loss: 0.065
+[402,  40] loss: 0.032
+[402,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 78 %
+[403,  20] loss: 0.051
+[403,  40] loss: 0.048
+[403,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 78 %
+[404,  20] loss: 0.054
+[404,  40] loss: 0.060
+[404,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 78 %
+[405,  20] loss: 0.060
+[405,  40] loss: 0.032
+[405,  60] loss: 0.063
+Accuracy of the network on the 400 test images: 76 %
+[406,  20] loss: 0.045
+[406,  40] loss: 0.051
+[406,  60] loss: 0.075
+Accuracy of the network on the 400 test images: 76 %
+[407,  20] loss: 0.043
+[407,  40] loss: 0.064
+[407,  60] loss: 0.036
+Accuracy of the network on the 400 test images: 80 %
+[408,  20] loss: 0.060
+[408,  40] loss: 0.056
+[408,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 74 %
+[409,  20] loss: 0.043
+[409,  40] loss: 0.045
+[409,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 75 %
+[410,  20] loss: 0.039
+[410,  40] loss: 0.030
+[410,  60] loss: 0.025
+Accuracy of the network on the 400 test images: 78 %
+[411,  20] loss: 0.059
+[411,  40] loss: 0.052
+[411,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 79 %
+[412,  20] loss: 0.027
+[412,  40] loss: 0.034
+[412,  60] loss: 0.026
+Accuracy of the network on the 400 test images: 78 %
+[413,  20] loss: 0.032
+[413,  40] loss: 0.043
+[413,  60] loss: 0.067
+Accuracy of the network on the 400 test images: 78 %
+[414,  20] loss: 0.047
+[414,  40] loss: 0.052
+[414,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 78 %
+[415,  20] loss: 0.051
+[415,  40] loss: 0.039
+[415,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 76 %
+[416,  20] loss: 0.068
+[416,  40] loss: 0.032
+[416,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 77 %
+[417,  20] loss: 0.036
+[417,  40] loss: 0.030
+[417,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 78 %
+[418,  20] loss: 0.049
+[418,  40] loss: 0.039
+[418,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 74 %
+[419,  20] loss: 0.043
+[419,  40] loss: 0.040
+[419,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 76 %
+[420,  20] loss: 0.037
+[420,  40] loss: 0.071
+[420,  60] loss: 0.065
+Accuracy of the network on the 400 test images: 76 %
+[421,  20] loss: 0.056
+[421,  40] loss: 0.032
+[421,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 80 %
+[422,  20] loss: 0.071
+[422,  40] loss: 0.044
+[422,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 78 %
+[423,  20] loss: 0.032
+[423,  40] loss: 0.035
+[423,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 74 %
+[424,  20] loss: 0.053
+[424,  40] loss: 0.052
+[424,  60] loss: 0.031
+Accuracy of the network on the 400 test images: 79 %
+[425,  20] loss: 0.044
+[425,  40] loss: 0.053
+[425,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 78 %
+[426,  20] loss: 0.040
+[426,  40] loss: 0.063
+[426,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 78 %
+[427,  20] loss: 0.093
+[427,  40] loss: 0.045
+[427,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 78 %
+[428,  20] loss: 0.041
+[428,  40] loss: 0.074
+[428,  60] loss: 0.074
+Accuracy of the network on the 400 test images: 79 %
+[429,  20] loss: 0.035
+[429,  40] loss: 0.053
+[429,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 78 %
+[430,  20] loss: 0.048
+[430,  40] loss: 0.068
+[430,  60] loss: 0.086
+Accuracy of the network on the 400 test images: 78 %
+[431,  20] loss: 0.057
+[431,  40] loss: 0.036
+[431,  60] loss: 0.060
+Accuracy of the network on the 400 test images: 78 %
+[432,  20] loss: 0.023
+[432,  40] loss: 0.084
+[432,  60] loss: 0.048
+Accuracy of the network on the 400 test images: 78 %
+[433,  20] loss: 0.051
+[433,  40] loss: 0.050
+[433,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 77 %
+[434,  20] loss: 0.060
+[434,  40] loss: 0.057
+[434,  60] loss: 0.061
+Accuracy of the network on the 400 test images: 80 %
+[435,  20] loss: 0.088
+[435,  40] loss: 0.084
+[435,  60] loss: 0.039
+Accuracy of the network on the 400 test images: 78 %
+[436,  20] loss: 0.055
+[436,  40] loss: 0.046
+[436,  60] loss: 0.038
+Accuracy of the network on the 400 test images: 81 %
+[437,  20] loss: 0.061
+[437,  40] loss: 0.050
+[437,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 76 %
+[438,  20] loss: 0.076
+[438,  40] loss: 0.044
+[438,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 77 %
+[439,  20] loss: 0.050
+[439,  40] loss: 0.046
+[439,  60] loss: 0.029
+Accuracy of the network on the 400 test images: 77 %
+[440,  20] loss: 0.040
+[440,  40] loss: 0.032
+[440,  60] loss: 0.036
+Accuracy of the network on the 400 test images: 76 %
+[441,  20] loss: 0.028
+[441,  40] loss: 0.039
+[441,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 74 %
+[442,  20] loss: 0.063
+[442,  40] loss: 0.035
+[442,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 78 %
+[443,  20] loss: 0.039
+[443,  40] loss: 0.042
+[443,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 77 %
+[444,  20] loss: 0.064
+[444,  40] loss: 0.055
+[444,  60] loss: 0.064
+Accuracy of the network on the 400 test images: 77 %
+[445,  20] loss: 0.081
+[445,  40] loss: 0.038
+[445,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 79 %
+[446,  20] loss: 0.023
+[446,  40] loss: 0.037
+[446,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 79 %
+[447,  20] loss: 0.046
+[447,  40] loss: 0.045
+[447,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 75 %
+[448,  20] loss: 0.047
+[448,  40] loss: 0.027
+[448,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 75 %
+[449,  20] loss: 0.034
+[449,  40] loss: 0.052
+[449,  60] loss: 0.052
+Accuracy of the network on the 400 test images: 75 %
+[450,  20] loss: 0.058
+[450,  40] loss: 0.068
+[450,  60] loss: 0.087
+Accuracy of the network on the 400 test images: 79 %
+[451,  20] loss: 0.069
+[451,  40] loss: 0.039
+[451,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 80 %
+[452,  20] loss: 0.049
+[452,  40] loss: 0.046
+[452,  60] loss: 0.035
+Accuracy of the network on the 400 test images: 77 %
+[453,  20] loss: 0.046
+[453,  40] loss: 0.029
+[453,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[454,  20] loss: 0.043
+[454,  40] loss: 0.059
+[454,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 76 %
+[455,  20] loss: 0.057
+[455,  40] loss: 0.039
+[455,  60] loss: 0.049
+Accuracy of the network on the 400 test images: 80 %
+[456,  20] loss: 0.036
+[456,  40] loss: 0.041
+[456,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 76 %
+[457,  20] loss: 0.072
+[457,  40] loss: 0.046
+[457,  60] loss: 0.042
+Accuracy of the network on the 400 test images: 76 %
+[458,  20] loss: 0.053
+[458,  40] loss: 0.044
+[458,  60] loss: 0.043
+Accuracy of the network on the 400 test images: 73 %
+[459,  20] loss: 0.038
+[459,  40] loss: 0.032
+[459,  60] loss: 0.063
+Accuracy of the network on the 400 test images: 78 %
+[460,  20] loss: 0.029
+[460,  40] loss: 0.042
+[460,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 79 %
+[461,  20] loss: 0.059
+[461,  40] loss: 0.049
+[461,  60] loss: 0.052
+Accuracy of the network on the 400 test images: 79 %
+[462,  20] loss: 0.067
+[462,  40] loss: 0.083
+[462,  60] loss: 0.072
+Accuracy of the network on the 400 test images: 80 %
+[463,  20] loss: 0.032
+[463,  40] loss: 0.048
+[463,  60] loss: 0.046
+Accuracy of the network on the 400 test images: 78 %
+[464,  20] loss: 0.043
+[464,  40] loss: 0.068
+[464,  60] loss: 0.066
+Accuracy of the network on the 400 test images: 77 %
+[465,  20] loss: 0.039
+[465,  40] loss: 0.054
+[465,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 78 %
+[466,  20] loss: 0.089
+[466,  40] loss: 0.016
+[466,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 79 %
+[467,  20] loss: 0.040
+[467,  40] loss: 0.080
+[467,  60] loss: 0.026
+Accuracy of the network on the 400 test images: 76 %
+[468,  20] loss: 0.035
+[468,  40] loss: 0.053
+[468,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 78 %
+[469,  20] loss: 0.034
+[469,  40] loss: 0.075
+[469,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 77 %
+[470,  20] loss: 0.040
+[470,  40] loss: 0.034
+[470,  60] loss: 0.027
+Accuracy of the network on the 400 test images: 77 %
+[471,  20] loss: 0.052
+[471,  40] loss: 0.068
+[471,  60] loss: 0.070
+Accuracy of the network on the 400 test images: 78 %
+[472,  20] loss: 0.045
+[472,  40] loss: 0.040
+[472,  60] loss: 0.045
+Accuracy of the network on the 400 test images: 79 %
+[473,  20] loss: 0.050
+[473,  40] loss: 0.039
+[473,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 78 %
+[474,  20] loss: 0.042
+[474,  40] loss: 0.056
+[474,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 77 %
+[475,  20] loss: 0.036
+[475,  40] loss: 0.062
+[475,  60] loss: 0.032
+Accuracy of the network on the 400 test images: 78 %
+[476,  20] loss: 0.039
+[476,  40] loss: 0.083
+[476,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 74 %
+[477,  20] loss: 0.035
+[477,  40] loss: 0.104
+[477,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 78 %
+[478,  20] loss: 0.043
+[478,  40] loss: 0.029
+[478,  60] loss: 0.055
+Accuracy of the network on the 400 test images: 76 %
+[479,  20] loss: 0.050
+[479,  40] loss: 0.067
+[479,  60] loss: 0.050
+Accuracy of the network on the 400 test images: 80 %
+[480,  20] loss: 0.038
+[480,  40] loss: 0.056
+[480,  60] loss: 0.037
+Accuracy of the network on the 400 test images: 78 %
+[481,  20] loss: 0.033
+[481,  40] loss: 0.035
+[481,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 77 %
+[482,  20] loss: 0.045
+[482,  40] loss: 0.054
+[482,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 76 %
+[483,  20] loss: 0.066
+[483,  40] loss: 0.052
+[483,  60] loss: 0.030
+Accuracy of the network on the 400 test images: 77 %
+[484,  20] loss: 0.089
+[484,  40] loss: 0.068
+[484,  60] loss: 0.034
+Accuracy of the network on the 400 test images: 76 %
+[485,  20] loss: 0.044
+[485,  40] loss: 0.038
+[485,  60] loss: 0.051
+Accuracy of the network on the 400 test images: 74 %
+[486,  20] loss: 0.053
+[486,  40] loss: 0.049
+[486,  60] loss: 0.044
+Accuracy of the network on the 400 test images: 78 %
+[487,  20] loss: 0.056
+[487,  40] loss: 0.043
+[487,  60] loss: 0.047
+Accuracy of the network on the 400 test images: 78 %
+[488,  20] loss: 0.042
+[488,  40] loss: 0.032
+[488,  60] loss: 0.072
+Accuracy of the network on the 400 test images: 80 %
+[489,  20] loss: 0.055
+[489,  40] loss: 0.057
+[489,  60] loss: 0.033
+Accuracy of the network on the 400 test images: 75 %
+[490,  20] loss: 0.039
+[490,  40] loss: 0.054
+[490,  60] loss: 0.053
+Accuracy of the network on the 400 test images: 76 %
+[491,  20] loss: 0.053
+[491,  40] loss: 0.068
+[491,  60] loss: 0.062
+Accuracy of the network on the 400 test images: 76 %
+[492,  20] loss: 0.030
+[492,  40] loss: 0.037
+[492,  60] loss: 0.074
+Accuracy of the network on the 400 test images: 76 %
+[493,  20] loss: 0.047
+[493,  40] loss: 0.074
+[493,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 78 %
+[494,  20] loss: 0.061
+[494,  40] loss: 0.096
+[494,  60] loss: 0.081
+Accuracy of the network on the 400 test images: 79 %
+[495,  20] loss: 0.034
+[495,  40] loss: 0.062
+[495,  60] loss: 0.040
+Accuracy of the network on the 400 test images: 75 %
+[496,  20] loss: 0.062
+[496,  40] loss: 0.041
+[496,  60] loss: 0.067
+Accuracy of the network on the 400 test images: 78 %
+[497,  20] loss: 0.039
+[497,  40] loss: 0.049
+[497,  60] loss: 0.058
+Accuracy of the network on the 400 test images: 77 %
+[498,  20] loss: 0.040
+[498,  40] loss: 0.053
+[498,  60] loss: 0.076
+Accuracy of the network on the 400 test images: 80 %
+[499,  20] loss: 0.049
+[499,  40] loss: 0.027
+[499,  60] loss: 0.079
+Accuracy of the network on the 400 test images: 77 %
+[500,  20] loss: 0.044
+[500,  40] loss: 0.040
+[500,  60] loss: 0.041
+Accuracy of the network on the 400 test images: 80 %
